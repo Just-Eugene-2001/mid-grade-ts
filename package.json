@@ -12,11 +12,7 @@
     "format": "npx eslint ./src --fix",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --setupFiles dotenv/config"
   },
-  "keywords": [
-    "eve",
-    "online",
-    "sde"
-  ],
+  "keywords": [],
   "author": "Aleksandr Donkov <donexcode@gmail.com>",
   "license": "MIT",
   "devDependencies": {
