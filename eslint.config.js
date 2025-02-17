@@ -30,7 +30,7 @@ export default [
       '@typescript-eslint/explicit-module-boundary-types': ['warn'],
       '@typescript-eslint/no-explicit-any': ['warn'],
 
-      'no-console': ['warn', { allow: ['warn', 'error'] }],
+      // 'no-console': ['warn', { allow: ['warn', 'error'] }],
       'max-len': ['error', { code: 120 }],
 
       'no-unused-vars': 'off',
